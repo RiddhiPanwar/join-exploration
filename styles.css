@@ -1,0 +1,16 @@
+body {
+    color:  yellow;
+    background-image: url("images/unsplash.jpg.jpg");
+    background-size: cover;
+    text-align: center;
+   font-family: 'Orbitron', sans-serif;
+    
+}
+.wtp{
+  padding:7px 12px;
+  background: white;
+  border: none;
+  font-family: inherit;
+ 
+}
+
